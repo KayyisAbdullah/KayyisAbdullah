@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6D28D9&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+a+Frontend+Developer;Let's+code+something+awesome!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6D28D9&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;UI%2FUX+Designer+%26+Frontend+Dev;Let's+create+something+amazing!" alt="Typing animation" />
   
   <br/>
   
+  <a href="https://www.figma.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
   <a href="https://github.com/yourusername?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/My_Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
@@ -24,7 +27,13 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ My Toolkit
+
+### 🎨 UI/UX Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 
 ### 💻 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +42,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🖥️ Office Tools
+### 📊 Office Productivity
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -41,40 +50,41 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
   
-  <!-- Project 1 -->
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&show_owner=true" alt="Project 1" />
+  <!-- Design Project -->
+  <a href="https://www.figma.com/community/file/yourdesignproject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=design-project&theme=radical&show_owner=true" alt="Design Project" />
   </a>
   
-  <!-- Project 2 -->
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&show_owner=true" alt="Project 2" />
+  <!-- Web Project -->
+  <a href="https://github.com/yourusername/web-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=web-project&theme=radical&show_owner=true" alt="Web Project" />
   </a>
   
   <br/>
   
-  <!-- Project 3 -->
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical&show_owner=true" alt="Project 3" />
+  <!-- UI Project -->
+  <a href="https://dribbble.com/yourusername/project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ui-project&theme=radical&show_owner=true" alt="UI Project" />
   </a>
   
-  <!-- Project 4 -->
-  <a href="https://github.com/yourusername/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=radical&show_owner=true" alt="Project 4" />
+  <!-- Dev Project -->
+  <a href="https://github.com/yourusername/dev-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=dev-project&theme=radical&show_owner=true" alt="Dev Project" />
   </a>
   
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats & Activity
 
 <div align="center">
   
@@ -82,7 +92,7 @@
   
   <br/>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6&hide=php,java)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6)
   
   <br/>
   
@@ -103,8 +113,8 @@
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://dribbble.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
   </a>
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
